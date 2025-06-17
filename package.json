@@ -1,0 +1,19 @@
+{
+  "name": "create-yopta-app",
+  "version": "1.0.2",
+  "description": "Создаёт next.js проект с YoptaScript",
+  "bin": {
+    "create-yopta-app": "./suka-yopta-a-a-a.js"
+  },
+  "keywords": [
+    "yoptascript",
+    "next.js",
+    "npx",
+    "create",
+    "yopta",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Kr1tX12",
+  "license": "MIT"
+}

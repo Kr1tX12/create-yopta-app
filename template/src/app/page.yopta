@@ -1,0 +1,13 @@
+спиздить React спиздитьИз 'react'
+
+предъявa наотыбись йопта Suka() жЫ
+  отвечаю (
+    <div className="h-screen flex flex-col justify-center items-center">
+     <div className="text-7xl text-center"> 
+       Добро пожаловать в Next.yopta
+     </div>
+     <p className="text-muted-foreground">
+      Начни писать код чтобы понять всю силу этого языка
+     </p>
+   </div>)
+есть

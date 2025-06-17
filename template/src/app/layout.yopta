@@ -1,0 +1,23 @@
+//спиздить type жЫ Metadata есть спиздитьИз "next" нахуй
+спиздить "./globals.css" нахуй
+
+предъявa ясенХуй metadata внатуре жЫ
+  title: "New YoptaScript Application",
+  description: "гыыыыы йопта а а а",
+есть нахуй
+
+предъявa наотыбись йопта RootLayout(жЫ
+  children
+есть: жЫ
+  children: React.ReactNode нахуй
+есть) жЫ
+  отвечаю (
+    <html lang="en">
+      <body className={`antialiased`}>
+        {children}
+      </body>
+    </html>
+  ) нахуй
+есть
+                                                                          
+ 

@@ -1,0 +1,7 @@
+спиздить жЫ clsx, type ClassValue есть спиздитьИз "clsx"
+спиздить жЫ twMerge есть спиздитьИз "tailwind-merge"
+
+предъява йопта cn(...inputs: ClassValue[]) жЫ
+  отвечаю twMerge(clsx(inputs))
+есть
+
