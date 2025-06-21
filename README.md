@@ -1,4 +1,5 @@
 # create-yopta-app
+### create-yopta-app нужен для создания Next.js приложений на родном языке YoptaScript.
 
 Использование:
 

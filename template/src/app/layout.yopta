@@ -1,5 +1,4 @@
-//спиздить type жЫ Metadata есть спиздитьИз "next" нахуй
-спиздить "./globals.css" нахуй
+спиздить "../shared/styles/globals.css" нахуй
 
 предъявa ясенХуй metadata внатуре жЫ
   title: "New YoptaScript Application",
