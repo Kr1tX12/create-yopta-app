@@ -1,6 +1,6 @@
 спиздить React спиздитьИз 'react'
 
-предъявa наотыбись йопта Suka() жЫ
+предъява наотыбись йопта Suka() жЫ
   отвечаю (
     <div className="h-screen flex flex-col justify-center items-center">
      <div className="text-7xl text-center"> 

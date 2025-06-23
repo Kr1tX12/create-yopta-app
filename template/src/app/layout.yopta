@@ -1,11 +1,11 @@
 спиздить "../shared/styles/globals.css" нахуй
 
-предъявa ясенХуй metadata внатуре жЫ
+предъява ясенХуй metadata внатуре жЫ
   title: "New YoptaScript Application",
   description: "гыыыыы йопта а а а",
 есть нахуй
 
-предъявa наотыбись йопта RootLayout(жЫ
+предъява наотыбись йопта RootLayout(жЫ
   children
 есть: жЫ
   children: React.ReactNode нахуй

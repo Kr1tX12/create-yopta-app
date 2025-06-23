@@ -6,7 +6,8 @@
     "dev": "node scripts/welcome.js && next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "fix-client": "node scripts/fix-client.ts"
   },
   "dependencies": {
     "@chakra-ui/next-js": "^2.4.2",
@@ -66,7 +67,7 @@
     "three": "^0.177.0",
     "tiptap": "^1.32.2",
     "valtio": "^2.1.5",
-    "yopta": "https://github.com/Kr1tX12/YoptaScript.git",
+    "yopta": "github:Kr1tX12/YoptaScript",
     "yup": "^1.6.1",
     "zod": "^3.25.67",
     "zone.js": "^0.15.1",
